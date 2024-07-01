@@ -1,5 +1,5 @@
 import time
-
+from playsound import playsound
 def userChoice(user_input):
     if user_input == "1":
         digitalClock()
@@ -22,7 +22,8 @@ def countdowntimer(second):
     print("Countdown Timer startrd!")
     for i in range(second, -1, -1):
         print("\rTime remaining :  "+ str(i),end ='')
-        time.sleep(1)    
+        time.sleep(1)
+    playsound("music.mp3")
     print("\n Time's up!")
 print("\n")
 
