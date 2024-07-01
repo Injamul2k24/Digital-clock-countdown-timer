@@ -23,7 +23,7 @@ def countdowntimer(second):
     for i in range(second, -1, -1):
         print("\rTime remaining :  "+ str(i),end ='')
         time.sleep(1)
-    playsound("music.mp3")
+    playsound("Top-Touches-Wow.mp3")
     print("\n Time's up!")
 print("\n")
 
