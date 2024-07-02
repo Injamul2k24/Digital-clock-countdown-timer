@@ -22,12 +22,11 @@ This project involves the creation of a digital clock and a countdown timer usin
 1. **Digital Clock**:
    - `time` module: To fetch the current time.
    - `datetime` module: For date and time manipulation.
-   - `tkinter` module: For creating the graphical user interface (GUI).
+  
 
 2. **Countdown Timer**:
-   - `tkinter` module: For GUI and user input handling.
    - `time` module: To manage the countdown duration and intervals.
-   -  - `playsound`module: To creat a audible alert when countdown reaches zero
+   - `playsound`module: To creat a audible alert when countdown reaches zero
    - Custom functions to handle the countdown logic and alert mechanisms.
 
 ### Benefits
