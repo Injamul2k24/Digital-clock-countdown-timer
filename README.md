@@ -1,6 +1,6 @@
 # Digital-clock-countdown-timer
 
-Here's a detailed description and functionality breakdown for your GitHub project:
+Here's a detailed description and functionality breakdown for my GitHub project:
 
 -----------------------------------
 
