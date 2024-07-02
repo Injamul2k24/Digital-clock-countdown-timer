@@ -2,9 +2,8 @@
 
 Here's a detailed description and functionality breakdown for your GitHub project:
 
----
+-----------------------------------
 
-## Digital Clock and Countdown Timer
 
 ### Project Description
 This project involves the creation of a digital clock and a countdown timer using Python. It serves as a practical demonstration of Python programming skills and time-based application development.
